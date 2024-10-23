@@ -1,4 +1,4 @@
-Oii, eu sou o Guilherme, e estou em busca de virar um grande desenvolvedor! 
+Oii, eu sou o Guilherme, e estou em busca de me tornar um grande desenvolvedor! 
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiguilins&show_icons=true&theme=transparent)
 
